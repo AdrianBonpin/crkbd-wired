@@ -43,7 +43,7 @@ static void oled_render_wpm(void) {
 }
 
 static void oled_render_name(void) {
-    oled_write_P(PSTR("~ crkbd ~"), false);
+    oled_write_P(PSTR("~ RanSauce ~"), false);
 }
 
 __attribute__((weak)) void oled_render_logo(void) {
