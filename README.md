@@ -33,13 +33,13 @@ When adjusting and and compiling this again, please comment out all the code in 
 - RGB Light
 
 ## Layout
-**Base**
+**Base** *Layer 0*
 ![layer_1](./src/layer1.png)
-**Number and Nav**
+**Number and Nav** *Layer 1*
 ![layer_2](./src/layer2.png)
-**Function**
+**Function** *Layer 2*
 ![layer_3](./src/layer3.png)
-**Extra**
+**Extra** *Layer 3*
 ![layer_4](./src/layer4.jpg)
 
 ## OLED Splash
