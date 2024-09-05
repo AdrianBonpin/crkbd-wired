@@ -2,6 +2,13 @@
 
 I've made this hex config as a way for people to easily get into these types of keyboards since I myself came from an 80% myself. If you want a precompiled file, just download the 
 
+**Update**
+- Added Vial and Via Support through `crkbd-vial.hex`
+
+*Vial Firmware Issues*
+- Memory Issues due to vial and via
+- No Tap-dance due to OLED
+
 **Features**
 - RGB Matrix
 - Custom Slave OLED Splash
